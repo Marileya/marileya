@@ -1,9 +1,12 @@
-Приветствую! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Мария и я Python разработчик
-=============================================================================================================================
+![заголовок](https://github.com/Marileya/marileya/blob/main/assets/logo.jpg)
+
+## Приветствую! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+<h4> Меня зовут Мария и я Python разработчик </h4>
 
 <h3 align="left">  Обо мне</h3>
 
 Выполняю разные проекты на Python уже более года. В разработку пришла из технической специальности (долго работала в инженерном направлении).
+
 
 <h3 align="left">  Стек</h3>
 
@@ -20,13 +23,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 
-### Контакты
 
-<p align="left"> 
-  <a href="https://www.github.com/Marileya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
-</p>
-
-### 🔥 GitHub активность
+### GitHub активность
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marileya&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://www.github.com/Marileya" target="_blank" rel="noreferrer"><img
